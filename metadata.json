@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Absensi Karyawan - Web Admin",
+  "description": "Panel Administrasi Web untuk Sistem Absensi Karyawan On-Premise",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
